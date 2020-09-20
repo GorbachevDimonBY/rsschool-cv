@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  background: rgb(214, 200, 173);
+  padding: 10px 30px;
+}
+
+header img {
+  width: 300px;
+  border: 3px solid #000;
+  border-radius: 15px;
+}
+
+header {
+  text-align: center;
+}
+
+header, header img, h1, h3, section {
+  margin-bottom: 20px;
+}
+
+h3 {
+  border-bottom: 2px solid black;
+  font-size: 30px;
+}
+
+pre {
+  background: white;
+  border-radius: 15px;
+  padding-top: 15px;
+}
