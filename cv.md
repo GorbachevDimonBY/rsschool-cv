@@ -7,7 +7,7 @@
 
 ### Summary:
 **About me:** I have always been interested in watching the development of High technologies. I admire the companies whose products are used by tens and hundreds of million people. I would like to be a part of something great.
-**Goal:** Get new skills, practical experience and find a job.
+**Goal:** Get new skills, practical experience and find a job.  
 
 ### Skills:
 * **HTML / CSS coding:** HTML5, CSS3, Sass/Scss, Responsive and cross-browser coding
